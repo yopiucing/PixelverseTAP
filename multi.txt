@@ -1,24 +1,14 @@
-query_id=AAHXx8pxAgAAANfHynH5Z-WP&user=%7B%22id%22%3A6204082135%2C%22first_name%22%3A%22%24CFI%22%2C%22last_name%22%3A%22yaelahjiiib%22%2C%22username%22%3A%22andraz404%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717824467&hash=ea3d41f71d30d93298d22ce060856d0b830c790d8a7a5fad4719a2ec5b0e6824
-cad94af150bedf8b8b95a76de329e64e18f4902fc1bb6b20b434600767082030
-6204082135
-andraz404
+query_id=AAHXxxxxxxxxxWP&user=%7B%22id%22%xxxxxxxxxxxname%22%3A%22%24CFI%22%2C%22last_name%22%3A%22yxxxxxx%2C%22x22%3A%22axxxxxx%2xxxxxxxx22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_datexxxxxxxxxxxxx467&hash=ea3d41f71d30dxxxxxxxxxx
+cad94axxxxxxxxxxxxxxxxxxxxxxxx
+62xxxxxxx
+andxxxxxx
 
-query_id=AAFHzU0pAwAAAEfNTSmUGGMq&user=%7B%22id%22%3A7135415623%2C%22first_name%22%3A%22Nama%22%2C%22last_name%22%3A%22Kamu%22%2C%22username%22%3A%22kabcirebon%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717795900&hash=48718ac5879f6cbdd058f019527cce5225006de0a28e1857c675e6e8ae8eaa16
-39547ba320a9184dadc9c386e0f7f2461946a881f35c360b5ce96fecab0bb60c
-7135415623
-kabcirebon
+query_id=AAHXxxxxxxxxxWP&user=%7B%22id%22%xxxxxxxxxxxname%22%3A%22%24CFI%22%2C%22last_name%22%3A%22yxxxxxx%2C%22x22%3A%22axxxxxx%2xxxxxxxx22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_datexxxxxxxxxxxxx467&hash=ea3d41f71d30dxxxxxxxxxx
+cad94axxxxxxxxxxxxxxxxxxxxxxxx
+62xxxxxxx
+andxxxxxx
 
-query_id=AAGgJegAAwAAAKAl6ADs2Crc&user=%7B%22id%22%3A6457664928%2C%22first_name%22%3A%22haji%22%2C%22last_name%22%3A%22joko%22%2C%22username%22%3A%22kabupatencirebon%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717795945&hash=cdd56a0f96b9899ccf3649578b0c7747aae57517d8b5385c842be0b19cd7071e
-3225bf6af4c0945dd41e4c7e68b937c9f2d59cba71fc1d01e078371e31912300
-6457664928
-kabupatencirebon
-
-query_id=AAG_10AnAwAAAL_XQCeUwO_2&user=%7B%22id%22%3A7101011903%2C%22first_name%22%3A%22Brr%22%2C%22last_name%22%3A%22Sui%22%2C%22username%22%3A%22najibkibul%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717660083&hash=472e83645bc58cce69727cdb246f3d58ba349e2b89d1ae965b1836fbf09db27d
-3ffd2598d38cab7b20822f6998a620bc58c3dcac05f0cb956946d6723cc218fe
-7101011903
-najibkibul
-
-query_id=AAFsG38qAwAAAGwbfyoPdn36&user=%7B%22id%22%3A7155424108%2C%22first_name%22%3A%22Q%22%2C%22last_name%22%3A%22G%22%2C%22username%22%3A%22botsantri%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717660172&hash=6e06a43561033ba48a6a975634d31d157c6fa149c9cdbb29a3df1a7b568cd6fe
-b800338775b6e6de69ab8a40a2ea59224b574fb06ba4903805bafeb13c12ad04
-7155424108
-botsantri
+query_id=AAHXxxxxxxxxxWP&user=%7B%22id%22%xxxxxxxxxxxname%22%3A%22%24CFI%22%2C%22last_name%22%3A%22yxxxxxx%2C%22x22%3A%22axxxxxx%2xxxxxxxx22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_datexxxxxxxxxxxxx467&hash=ea3d41f71d30dxxxxxxxxxx
+cad94axxxxxxxxxxxxxxxxxxxxxxxx
+62xxxxxxx
+andxxxxxx
